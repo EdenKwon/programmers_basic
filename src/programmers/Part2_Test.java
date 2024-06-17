@@ -1,6 +1,6 @@
-package Part2_Test;
+package programmers;
 
-public class Main {
+public class part2_Test {
     public static void main(String[] args) {
         ex01();
     }
@@ -28,8 +28,8 @@ public class Main {
 
         System.out.println(isFun);
         System.out.println(charValue);
-            System.out.println(intValue);
-            System.out.println(longValue);
+        System.out.println(intValue);
+        System.out.println(longValue);
     }
 
     public static void ex04() {
